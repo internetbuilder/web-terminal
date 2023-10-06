@@ -1,4 +1,4 @@
-Web-Terminal
+Web-Terminal 
 ============
 Web-Terminal is a very lightweight terminal server that provides remote CLI via standard web browser and HTTP protocol.
 It works on all operating systems supported by Node.js, it doesn't depend on native modules.
